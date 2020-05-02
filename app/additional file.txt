@@ -1,0 +1,5 @@
+email = "evgeny_admin@gmail.com"
+pass = admin
+
+email = egor@gmail.com
+pass = egor
