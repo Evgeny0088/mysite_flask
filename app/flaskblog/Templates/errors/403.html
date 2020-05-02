@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block content %}
+	<div class="content-section">
+		<h1>This page is forbitten for access (403)</h1>
+		<p>
+			Please try another page or return on <a class="ml-2" href="{{ url_for('main.index') }}">home page</a>
+		</p>
+	</div>
+{% endblock content %}
