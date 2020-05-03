@@ -1,2 +1,4 @@
 new information for new branch dev!!!
 this file is changed into master branch!!!
+this file is changed at the newbranch
+////////both changes are correct//////////////
